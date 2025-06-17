@@ -5,7 +5,7 @@ metadata:
  namespace: argocd
 spec:
  source:
-  repoURL: https://github.com/makkasbed/argo-cd.git
+  repoURL: https://github.com/makkasbed/argocd.git
   targetRevision: HEAD
   path: dev
  destination:
